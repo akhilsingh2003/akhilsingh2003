@@ -23,12 +23,12 @@
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=akhilsingh2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsingh2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsingh2003&show_icons=true&locale=en&layout=compact&theme=black" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsingh2003&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsingh2003&theme=green" />
 </td>
 </tr>
 </table>
