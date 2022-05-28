@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Akhil Singh</h1>
+<h1 align="center">Hello , I'm Akhil Singh</h1>
 <h3 align="center">I am Akhil Singh, currently pursuing my B.Tech degree in Computer Science and Engineering from [GLA UNIVERSITY, MATHURA].</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilsingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="akhilsingh2003" /> </p>
 
-- 🌱 I’m currently learning **Web development, java, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Web development, java,Python, Data Structure and Algorithm**
 
 - 📫 How to reach me **akhil.singh_cs20@gla.ac.in**
 
