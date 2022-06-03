@@ -18,23 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📈 Stats
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=akhilsingh2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilsingh2003&show_icons=true&locale=en&layout=compact&theme=black" />
+
 </td>
 </tr>
 </table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilsingh2003&theme=green" />
-</td>
-</tr>
-</table>
-<!-- <h2 align='center'><i><a href="https://github.com/akhilsingh2003/github-readme-activity-graph">Akhil Singh's Contribution Graph 📈</i></h2> -->
-<p align="center">
-<a href="https://github.com/akhilsingh2003/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=akhilsingh2003&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
+
