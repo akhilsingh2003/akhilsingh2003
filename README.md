@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilsingh2003&label=Profile%20views&color=0e75b6&style=flat" alt="akhilsingh2003" /> </p>
 
-- 🌱 I’m currently learning **Web development, java, Data Structure and Algorithm**
+- 🌱 I’m currently learning **Web development, java**
 
 - 📫 How to reach me **akhil.singh_cs20@gla.ac.in**
 
